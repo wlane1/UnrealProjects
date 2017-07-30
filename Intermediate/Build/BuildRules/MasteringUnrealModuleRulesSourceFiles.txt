@@ -1,0 +1,3 @@
+C:\Users\B1gB0\OneDrive\Documents\Unreal Projects\MasteringUnreal\Source\MasteringUnreal\MasteringUnreal.Build.cs
+C:\Users\B1gB0\OneDrive\Documents\Unreal Projects\MasteringUnreal\Source\MasteringUnreal.Target.cs
+C:\Users\B1gB0\OneDrive\Documents\Unreal Projects\MasteringUnreal\Source\MasteringUnrealEditor.Target.cs
